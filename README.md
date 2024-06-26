@@ -14,4 +14,10 @@ It's a great way to learn.
 * [**C**: _Making an 8 Bit pipelined CPU_](https://www.youtube.com/playlist?list=PLFhc0MFC8MiCDOh3cGFji3qQfXziB9yOw)
 * [**C**: _Building and programming a 16-bit Intel x86 breadboard computer_](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
 * [**Logisim**: _Designing 8 bit Computer using Logisim_](https://www.youtube.com/playlist?list=PL26O2JyrmxV7CWzV9hCCJWMyiOlVMIF8z)
+  
+[**C / C++ & RTOS Project**]: Simulating an RTOS with InfiniTime and InfiniSim (PineTime smartwatch). 
 
+This project uses the InfiniTime firmware and InfiniSim simulator to teach RTOS concepts and development without the need for physical hardware.
+* [**InfiniTime**](https://github.com/InfiniTimeOrg/InfiniTime)
+* [**InfiniSim**](https://github.com/InfiniTimeOrg/InfiniSim)
+* [**Example**](https://github.com/shiivamgupta/InfiniTime/tree/feature/alarm-stay-on-fix)
